@@ -28,6 +28,6 @@ Download the 'extension' folder. Follow the <a href="https://www.cnet.com/how-to
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/vinitshahdeo/TodayInHistory/blob/master/LICENSE) file for details
 
 #### Check demo <a href="https://vinitshahdeo.github.io/TodayInHistory/" target="_blank">here</a>.

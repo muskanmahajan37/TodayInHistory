@@ -34,4 +34,4 @@ Download the 'extension' folder. Follow the <a href="https://www.cnet.com/how-to
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/vinitshahdeo/TodayInHistory/blob/master/LICENSE) file for details
 
-#### Check demo <a href="https://vinitshahdeo.github.io/TodayInHistory/" target="_blank">here</a>.
+#### Check demo [here](http://vinitshahdeo.com/projects/TodayInHistory/).

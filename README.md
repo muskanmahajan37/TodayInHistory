@@ -5,6 +5,8 @@
 
 Historical facts of the day in the areas of military, politics, science, music, sports, arts, entertainment and more. Discover what happened today in history. Share the facts through **WhatsApp/Twitter**.
 
+> **See [Live Demo](http://vinitshahdeo.com/projects/TodayInHistory/)**
+
 ## Getting Started
 
 Download the repository and open `index.html` with any browser say chrome.

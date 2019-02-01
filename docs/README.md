@@ -24,7 +24,7 @@ Download the 'extension' folder. Follow the <a href="https://www.cnet.com/how-to
 
 ## Screenshots
 
-![alt text](./screenshots/screenshot1.png)
+![alt text](../screenshots/screenshot1.png)
 
 ## Authors
 

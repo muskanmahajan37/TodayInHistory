@@ -28,7 +28,7 @@ Download the 'extension' folder. Follow the <a href="https://www.cnet.com/how-to
 
 ## Screenshots
 
-![Today In History - Screenshot](../screenshots/screenshot1.png)
+![Today In History - Screenshot](https://github.com/vinitshahdeo/TodayInHistory/blob/master/screenshots/screenshot1.png?raw=true)
 
 ## Authors
 

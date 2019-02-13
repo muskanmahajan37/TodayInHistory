@@ -5,6 +5,8 @@
 
 Historical facts of the day in the areas of military, politics, science, music, sports, arts, entertainment and more. Discover what happened today in history. Share the facts through **WhatsApp/Twitter**.
 
+[![Live Demo](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](http://vinitshahdeo.com/projects/TodayInHistory/)
+
 > **See [Live Demo](http://vinitshahdeo.com/projects/TodayInHistory/)**
 
 ## Getting Started
@@ -20,11 +22,13 @@ Download the 'extension' folder. Follow the <a href="https://www.cnet.com/how-to
 
 ## Built With
 
+[![HTML](https://forthebadge.com/images/badges/uses-html.svg)](https://github.com/vinitshahdeo/TodayInHistory/) [![css](https://forthebadge.com/images/badges/uses-css.svg)](https://github.com/vinitshahdeo/TodayInHistory/) [![JS](https://forthebadge.com/images/badges/uses-js.svg)](https://github.com/vinitshahdeo)
+
 * [NumbersAPI](http://numberapi.com/) - Numbers API
 
 ## Screenshots
 
-![Today In History](https://github.com/vinitshahdeo/TodayInHistory/blob/master/screenshots/screenshot1.png?raw=true)
+![alt text](./screenshots/screenshot1.png)
 
 ## Authors
 
@@ -35,3 +39,5 @@ Download the 'extension' folder. Follow the <a href="https://www.cnet.com/how-to
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/vinitshahdeo/TodayInHistory/blob/master/LICENSE) file for details
 
 #### Check demo [here](http://vinitshahdeo.com/projects/TodayInHistory/).
+
+[![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/vinitshahdeo) [![Powered by Water](https://forthebadge.com/images/badges/powered-by-water.svg)](https://github.com/vinitshahdeo) [![SMILE](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/vinitshahdeo)
